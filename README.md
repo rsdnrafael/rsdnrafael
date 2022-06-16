@@ -1,7 +1,7 @@
 ### Olá, Tudo bem? Sou Rafael Nascimento, tenho 23 anos e sou apaixonado por programação.
 
-- 🔭 Atualmente trabalho como Analista de help desk e pré Dev ADVPL Júnior.
-- 🌱 Estou estudando/desenvolvendo em Python, C# e ADVPL.
+- 🔭 Atualmente trabalho como Dev .net Junior.
+- 🌱 Estou estudando/desenvolvendo em Python, C# e Js.
 - 🤔 Procuro ajudar empresas pequenas com muitos processos manuais, a ter acesso a tecnologias para agilizar/automatizar processos a um preço acessível.
 - 📫 Me contate através do e-mail: rsdnrafael@gmail.com ou pelo número: 11 976191057.
 - 😄 Pronomes: ele/dele
