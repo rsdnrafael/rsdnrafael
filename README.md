@@ -2,10 +2,7 @@
 
 - 🔭 Atualmente trabalho como Dev .net Junior.
 - 🌱 Estou estudando/desenvolvendo em Python, C# e Js.
-- 🤔 Procuro ajudar empresas pequenas com muitos processos manuais, a ter acesso a tecnologias para agilizar/automatizar processos a um preço acessível.
 - 📫 Me contate através do e-mail: rsdnrafael@gmail.com ou pelo número: 11 976191057.
-- ⚡ Fato engraçado: O primeiro software que criei tinha como objetivo aceitar partidas de um jogo automaticamente.
-
 
 <div align="center">
   <a href="https://github.com/rsdnrafael">
