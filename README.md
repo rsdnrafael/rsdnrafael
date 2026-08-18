@@ -1,7 +1,7 @@
-### Olá, Tudo bem? Sou Rafael Nascimento, tenho 23 anos e sou apaixonado por programação.
+### Olá, Tudo bem? Sou Rafael Nascimento, tenho 26 anos e sou apaixonado por programação.
 
-- 🔭 Atualmente trabalho como Dev .net Junior.
-- 🌱 Estou estudando/desenvolvendo em Python, C# e Js.
+- 🔭 Atualmente trabalho como Dev Python e ADVPL Pleno.
+- 🌱 Estou estudando/desenvolvendo em Python e ADVPL.
 - 📫 Me contate através do e-mail: rsdnrafael@gmail.com ou pelo número: 11 976191057.
 
 <div align="center">
